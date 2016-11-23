@@ -1,6 +1,5 @@
 .aside {
-	position: fixed;
-	width: 200px;
+	width: 15%;
 	height: 500px;
 	background-color: lavender;
 	margin: 5px
@@ -9,7 +8,7 @@
 	box-shadow: 0 4px 8px;
 }
 .article {
-	width: 800px;
+	width: 65%;
 	height:auto;
 	box-shadow: 0 4px 8px;
 	background-color: lavender;
